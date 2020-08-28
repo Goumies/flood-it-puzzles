@@ -1,0 +1,16 @@
+{
+  "name": "flood-it-puzzles",
+  "version": "1.0.0",
+  "description": "Puzzles IA contest discovered during our CodeDay",
+  "main": "src/test/solution.js",
+  "scripts": {
+    "test": "mocha src/test/*.js --watch"
+  },
+  "author": "Romy Alula",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.2",
+    "sinon": "^9.0.3"
+  }
+}
